@@ -1,4 +1,4 @@
-# 👋 Hi, I'm lizixi-0x2F
+# 👋 Hi, I'm Zixi "Oz" Li !
 
 🚀 **AI & Systems Researcher** | 🔧 **Software Engineer** | 💡 **Open Source Contributor**
 
