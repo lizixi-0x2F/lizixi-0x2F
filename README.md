@@ -6,15 +6,6 @@ I'm passionate about building high-performance systems and exploring the fundame
 
 ## 🎯 Core Projects
 
-### 🚄 [March](https://github.com/lizixi-0x2F/March)
-**High-Performance KV Cache Sharing Library**
-- *Languages:* C (67.3%) | Python (31.4%) | Makefile (1.3%)
-- Optimized memory-efficient caching solution for large-scale inference systems
-
-### 🐍 [Collins](https://github.com/lizixi-0x2F/Collins)
-- *Languages:* Python (100%)
-- Flexible and extensible Python toolkit for advanced computing tasks
-
 ### 🧠 [Reasoning Kingdom](https://github.com/datawhalechina/reasoning-kingdom)
 **AI Reasoning Mechanisms Exploration**
 - Thought experiments and analysis on the nature of AI intelligence
